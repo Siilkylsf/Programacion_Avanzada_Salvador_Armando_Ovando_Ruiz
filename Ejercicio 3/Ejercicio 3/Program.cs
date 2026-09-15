@@ -1,5 +1,5 @@
-﻿Console.WriteLine("EJERCICIO_2");                                               //Numero de la practica
-Console.WriteLine("CÁLCULO DEL PROMEDIO DE TRES CALIFICACIONES");               //Nombre del ejercicio
+﻿Console.WriteLine("EJERCICIO_3");                                               //Numero de la practica
+Console.WriteLine("ANALISIS DE ESTADO DEL ALUMNO A PARTIR DEL PROMEDIO");               //Nombre del ejercicio
 Console.WriteLine();                                                            //Instruccion para dejar un espacio en blanco en la consola
 Console.Write("Ingrese la primera calificación: ");
 double calificacion1 = Convert.ToDouble(Console.ReadLine());                //Declaramos la variable 1
